@@ -1,7 +1,8 @@
 # :star_struck: SQLD Study Record :+1: 
 
-**SQLD 자격증을 위한 공부 repo**   
 ![image](https://github.com/torijune/SQLD/assets/128570787/a76e7233-d03d-4438-ba4b-7099b46a5e6b)
+
+**SQLD 자격증을 위한 공부 repo**   
 
 ## SQL 공부 계획
 **1. 모두의 SQL책으로 SQL 공부**
