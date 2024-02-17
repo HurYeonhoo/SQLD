@@ -1,7 +1,7 @@
 # :star_struck: SQLD Study Record :+1: 
 
 ![image](https://github.com/torijune/SQLD/assets/128570787/a76e7233-d03d-4438-ba4b-7099b46a5e6b)
-<p align="center"><img src="image_src"></p>
+<p align="center"><img src="![image](https://github.com/torijune/SQLD/assets/128570787/a76e7233-d03d-4438-ba4b-7099b46a5e6b)"></p>
 
 **SQLD 자격증을 위한 공부 repo**   
 
