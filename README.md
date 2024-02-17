@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://github.com/torijune/SQLD/assets/128570787/a76e7233-d03d-4438-ba4b-7099b46a5e6b"></p>
 
-**SQLD 자격증을 위한 공부 repo**   
+## SQLD 자격증을 위한 공부 repo
 
 ## SQL 공부 계획
 **1. 모두의 SQL책으로 SQL 공부**
